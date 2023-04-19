@@ -7,7 +7,10 @@
 .cabeçalho-título2 {
     color: rgba(150, 18, 226, 0.877); font-family: monospace;
 }
-p {
+.cabeçalho-título3 {
+    color: rgb(248, 18, 118);
+}
+.cabeçalho-título4 {
     color: rgb(248, 18, 118);
 }
 li {
